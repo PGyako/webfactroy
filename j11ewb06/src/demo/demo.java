@@ -2,6 +2,6 @@ package demo;
 
 public class demo {
 	public static void main(String[] args) {
-		System.out.println("儿子儿子我是你爸爸");
+		System.out.println("my son my son i am your dadaday");
 	}
 }
